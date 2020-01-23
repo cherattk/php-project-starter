@@ -1,6 +1,6 @@
 {
-    "name": "prose/project-starter",
-    "description": "Project starter.",
+    "name": "cherattk/php-project",
+    "description": "PHP Project starter.",
     "type":"project",
     "keywords": ["structure", "controller", "service" , "boilerplate"],
     "version" : "1.0.0",
