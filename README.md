@@ -1,3 +1,3 @@
 # PHP Project starter.
-PHP Project starter.
+General purpose PHP Project starter.
 
